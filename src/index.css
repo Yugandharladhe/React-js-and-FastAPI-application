@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: bisque;
+}
+
+.heading {
+  font-family: "Moul", cursive;
+  justify-content: center;
+  width: 100%;
+  background-color: grey;
+}
+.container {
+  font-family: "NTR", sans-serif;
+  font-family: "Roboto Slab", serif;
+  align-items: center;
+}
+.content-table {
+  border-collapse: collapse;
+  margin: 20px;
+  font-size: 1.5em;
+  min-width: 1100px;
+  padding: 20px;
+}
+
+.content-table th tr {
+  background-color: brown;
+  text-align: left;
+}
+
+.tr {
+  border-bottom: 2px solid #e2a2a2;
+  justify-content: center;
+}
+
+.th{
+  border-bottom: 1px #e2a2a2;
+}
+
+
